@@ -1,1 +1,1 @@
-# Jupyter_notebook_projects
+# Machine learning concepts
